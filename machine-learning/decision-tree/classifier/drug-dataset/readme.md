@@ -19,4 +19,4 @@ With Decision Tree, the model achieved 100% of accuracy in the test data, which 
 
 The confusion matrix result is:
 
-![conf-matrix](https://drive.google.com/u/0/uc?id=1iFLYUh6tAnn0zT4gy2QOMUcTUa9TGXTw&export=download)
+![conf-matrix](https://drive.google.com/u/0/uc?id=1gToavksH4zKjujBvRNoJRPFnKAsF9T5o&export=download)
