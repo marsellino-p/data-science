@@ -15,8 +15,8 @@ It is a sample of multiclass classifier, and you can use the training part of th
 DATA Source: IBM
 
 With Decision Tree, the model achieved 100% of accuracy in the test data, which mean it's a good model for the dataset. Here is the tree plotted from the model training:
-![tree-plotted](https://drive.google.com/file/d/11Odfq1jgUI0CCxxsitoBlgqbUVx_5fnW/view?usp=sharing)
+![tree-plotted](https://drive.google.com/u/0/uc?id=11Odfq1jgUI0CCxxsitoBlgqbUVx_5fnW&export=download)
 
 The confusion matrix result is:
 
-![conf-matrix](https://drive.google.com/file/d/1iFLYUh6tAnn0zT4gy2QOMUcTUa9TGXTw/view?usp=sharing)
+![conf-matrix](https://drive.google.com/u/0/uc?id=1iFLYUh6tAnn0zT4gy2QOMUcTUa9TGXTw&export=download)
