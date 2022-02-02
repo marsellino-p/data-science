@@ -23,7 +23,7 @@ ___
 Here is the price plotted from the dataset:
 ![price-plotted](https://drive.google.com/u/0/uc?id=1l0IT204NpL-E0nNbSnUD7NYsul0JldsZ&export=download)
 
-With Random Forest, the model achieved 0.000258022146321191 of Mean Squared Error (MSE) during training phase and 0.000258022146321191 in the testing phase. 
+With Random Forest, the model achieved 0.000258022146321191 of Mean Squared Error (MSE) during training phase and 0.0034489088832363604 in the testing phase. 
 
 Here is the comparasion of the true and predicted test data:
 ![test-predicted-plotted](https://drive.google.com/u/0/uc?id=1BvX5HiHKmE20QWOeQrAcjtMDi8RVqdVr&export=download)
