@@ -41,6 +41,6 @@ ___
 
 ### Conclusion
 
-Using Adam Optimizer, InceptionV3 achieved 97.42% of Training Accuracy and 90.02% of Validation Accuracy. You can download the constructed models on [Google Drive](https://drive.google.com/drive/folders/19i4X48dRV_oxxIXXAeZQKdU2pnwHc0T9?usp=sharing) as I couldn't upload them to Github because the models are over 100 MB each.. When we test it using random downloaded images from Google Image (in this case we are using watermelon), the model can predict it precisely. Here is the gif image of about using the model to predict the watermelon: 
+In this code, we used **TensorFlow** library. Using Adam Optimizer, InceptionV3 achieved 97.42% of Training Accuracy and 90.02% of Validation Accuracy. You can download the constructed models on [Google Drive](https://drive.google.com/drive/folders/19i4X48dRV_oxxIXXAeZQKdU2pnwHc0T9?usp=sharing) as I couldn't upload them to Github because the models are over 100 MB each.. When we test it using random downloaded images from Google Image (in this case we are using watermelon), the model can predict it precisely. Here is the gif image of about using the model to predict the watermelon: 
 
 ![predict](https://drive.google.com/u/0/uc?id=1rC7U5az4l0K5NQrr4geR9LPkSzuj2LFi&export=download)

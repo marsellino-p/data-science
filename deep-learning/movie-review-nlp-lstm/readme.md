@@ -20,7 +20,7 @@ ___
 
 ### Conclusion
 
-Using LSTM with Adam Optimizer, the model achieved 85.15% of Training Accuracy and 87.18% of Validation Accuracy. That's a pretty good accuracy on just 2 epochs of training and the model doesn't overfitting. When we test it using new IMDB movie review from Hawkeye series (2021), the model can predict the reviews correctly. Here are the word cloud images from the dataset: 
+In this code, we used **TensorFlow** library. Using LSTM with Adam Optimizer, the model achieved 85.15% of Training Accuracy and 87.18% of Validation Accuracy. That's a pretty good accuracy on just 2 epochs of training and the model doesn't overfitting. When we test it using new IMDB movie review from Hawkeye series (2021), the model can predict the reviews correctly. Here are the word cloud images from the dataset: 
 
             *Positive Wordcloud*
 ![wc-pos](./figure/wordcloud_positive.png)
